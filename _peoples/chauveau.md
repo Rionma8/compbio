@@ -3,7 +3,7 @@ title: "Marion Chauveau"
 name: "Marion Chauveau"
 collection: peoples
 permalink: /people/marion_chauveau
-github: "https://github.com/Rionma8"
+github: "https://github.com/marionchv"
 position: "phd_student"
 ---
 
